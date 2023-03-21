@@ -3,6 +3,7 @@
 
 
 <h1 align = "justify"> _Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu sou [ _Marcell ]</h1>
+-------
 <p align = "justify">Além de codar , amo aprender coisas novas seja da área de tecnologia ou não, amo estudar música, praticar atividades físicas e resolver problemas de lógica como passa-tempo.....</p>
 
 - 📖 atualmente estou estudando **Ciências da Computação/Python na Trybe**
